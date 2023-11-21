@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Precursor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d4d4d4"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72426346"
+     inkscape:cx="405.23928"
+     inkscape:cy="561.25985"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1220"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path10" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.87042;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path127"
+       ry="6.9891319"
+       rx="12.500001"
+       cy="77.989128"
+       cx="27.5" />
+    <path
+       id="path1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 27.5,85.022831 5,4.999999 m 0,-5.000001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-4.999999 5,4.9999995 0 0 1 5,4.999999 z" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path5"
+       cx="27.5"
+       cy="82.512688"
+       rx="0.50000006"
+       ry="0.51014626" />
+    <path
+       id="path6"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 20,69.999997 5,-5.000001 m -5,2e-6 h 15 v 9.999999 H 20 Z" />
+    <path
+       id="path11"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 50.000001,70 5,4.999999 m 0,-5.000001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-4.999999 5,4.9999995 0 0 1 5,4.999999 z" />
+    <path
+       id="path13"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 95.000002,70 100,74.999999 m 0,-5.000001 a 5,4.9999995 0 0 1 -4.999998,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-4.999999 A 5,4.9999995 0 0 1 100,69.999998 Z" />
+    <path
+       id="path14"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 65.000002,69.999998 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       id="path13-6"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 140.00001,69.999999 145,74.999998 m 0,-5.000001 a 5,4.9999995 0 0 1 -4.99999,5 5,4.9999995 0 0 1 -5.00001,-5 5,4.9999995 0 0 1 5.00001,-4.999999 A 5,4.9999995 0 0 1 145,69.999997 Z" />
+    <path
+       id="path14-0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,69.999997 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       id="path13-6-8"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 185.00001,69.999999 190,74.999998 m 0,-5.000001 a 5,4.9999995 0 0 1 -4.99999,5 5,4.9999995 0 0 1 -5.00001,-5 5,4.9999995 0 0 1 5.00001,-4.999999 A 5,4.9999995 0 0 1 190,69.999997 Z" />
+    <path
+       id="path14-0-5"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,69.999997 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 55,69.999997 H 65.000001"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 80,69.999997 H 90.000001"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 100,69.999997 h 10"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 125,69.999997 h 10"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 145,69.999997 h 10"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 170,69.999997 h 10"
+       id="path20" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="17.935421"
+       y="60.960983"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';fill:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="17.935421"
+         y="60.960983">Etapa de Entrega</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="39.257858"
+       y="60.960983"
+       id="text21"
+       transform="translate(4.3770123,-1.7802295)"><tspan
+         x="39.257858"
+         y="60.960983"
+         id="tspan2"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan1"> Malware </tspan></tspan><tspan
+         x="39.257858"
+         y="64.521442"
+         id="tspan4"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan3">entregado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text22"
+       transform="translate(25.682305,-1.4646579)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan6"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan5">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan7"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan9"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan8">CFG</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:15.1293;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text23"
+       transform="translate(70.968591,-4.9456159)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan11"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan10">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan12"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan14"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan13">arquitectura</tspan><tspan
+           y="64.521442"
+           id="tspan15"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan17"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan16">OS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text24"
+       transform="translate(48.57387,-5.6029419)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan19"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan18">Malware</tspan><tspan
+           y="60.960983"
+           id="tspan21"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan23"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan22">correctamente</tspan><tspan
+           y="64.521442"
+           id="tspan30"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan32"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan31">replicado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:21.1293;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text25"
+       transform="translate(93.252583,-1.4646579)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan34"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan33">Malware en OS</tspan><tspan
+           y="60.960983"
+           id="tspan35"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan37"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan36">correcto</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.8526;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text26"
+       transform="translate(115.66611,-4.1324562)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan41"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan38">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan42"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan44"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan43">permisos de</tspan><tspan
+           y="64.521442"
+           id="tspan45"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan47"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan46">ADMIN</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:21.1293;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text27"
+       transform="translate(138.25169,-1.4646579)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan54"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan48">Malware con</tspan><tspan
+           y="60.960983"
+           id="tspan55"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan58"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan57">acceso ADMIN</tspan></tspan></text>
+    <path
+       id="path27"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="M 95.000002,29.999998 V 21.964021 L 100,24.999998 l -4.999998,3 M 100,34.999999 a 5,4.9999995 0 0 1 -4.999998,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 4.999998,5 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text28"
+       transform="translate(48.247073,-47.548485)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan60"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan59">Exit Threat:</tspan><tspan
+           y="60.960983"
+           id="tspan61"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan63"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan62">CFG not</tspan><tspan
+           y="64.521442"
+           id="tspan64"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan66"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan65">passed</tspan></tspan></text>
+    <path
+       id="path29"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 140,29.999998 v -8.035977 l 5,3.035977 -5,3 m 5,7.000001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 5,5 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text29"
+       transform="translate(93.117538,-46.543872)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan68"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan67">Exit Threat: OS</tspan><tspan
+           y="60.960983"
+           id="tspan69"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan80"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan71">not suitable</tspan></tspan></text>
+    <path
+       id="path34"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 180,39.999998 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       id="path35"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 180,24.999998 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 170,67.999998 c 0,0 3,1 3,-4 l 0,-21 c 0.0725,-0.09673 -0.60271,-2.999999 3,-2.999999 h 4"
+       id="path36"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 173,41.999997 V 26.999999 c 0,0 0,-2 2,-2 2,0 5,0 5,0"
+       id="path37" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 195,24.999999 h 3 c 0,0 2,0 2,2 0,2.000001 0,40.999999 0,40.999999 0,0 0,1.999999 -2,1.999999 -2,0 -8,0 -8,0"
+       id="path38" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 195,39.999999 h 3 c 0,0 2,0 2,1.999998"
+       id="path39" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:26.8679;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text39"
+       transform="translate(140.24707,-26.960984)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan82"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan81">Exploit WIN32.sys</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:32.5303;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text40"
+       transform="translate(140.67679,-42.187892)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan86"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan85">Exploit TaskSchedule.sys</tspan></tspan></text>
+    <path
+       id="path40"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,94.999996 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 185,74.999997 v 17.999998 c 0,0 0,2.000002 -2,2.000002 -2,0 -13,0 -13,0"
+       id="path41" />
+    <path
+       id="path42"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 95.000007,95 100,99.999999 m 0,-5.000001 a 5,4.9999995 0 0 1 -4.999993,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-4.999999 A 5,4.9999995 0 0 1 100,94.999998 Z" />
+    <path
+       id="path43"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 65.000007,94.999998 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       id="path44"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 140.00001,94.999999 145,99.999998 m 0,-5.000001 a 5,4.9999995 0 0 1 -4.99999,5 5,4.9999995 0 0 1 -5.00001,-5 5,4.9999995 0 0 1 5.00001,-4.999999 A 5,4.9999995 0 0 1 145,94.999997 Z" />
+    <path
+       id="path45"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,94.999997 5,-5.000001 m -5,2e-6 h 15 v 9.999999 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 80.000005,94.999997 H 90.000006"
+       id="path46" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 100,94.999997 h 10"
+       id="path47" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 125,94.999997 h 10"
+       id="path48" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 145,94.999997 h 10"
+       id="path49" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.8526;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text49"
+       transform="translate(115.6823,19.959424)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan88"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan87">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan91"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan94"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan93">procesos de</tspan><tspan
+           y="64.521442"
+           id="tspan95"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan97"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan96">Antivirus</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:21.1293;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text50"
+       transform="translate(93.17679,23.011357)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan105"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan98">Procesos</tspan><tspan
+           y="60.960983"
+           id="tspan106"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan108"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan107">Identificados</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:21.1293;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text51"
+       transform="translate(70.67679,23.011357)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan110"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan109">Inyección de</tspan><tspan
+           y="60.960983"
+           id="tspan111"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan113"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan112">proceso maligno</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text52"
+       transform="translate(48.117538,23.306258)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan123"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan114">Malware en</tspan><tspan
+           y="60.960983"
+           id="tspan124"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan128"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan125">Memoria</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text53"
+       transform="translate(25.617541,23.306258)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan130"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan129">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan131"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan133"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan132">CFG</tspan></tspan></text>
+    <path
+       id="path54"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 50.000001,94.999999 5,4.999999 m 0,-5.000001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-4.999999 5,4.9999995 0 0 1 5,4.999999 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 55,94.999997 H 65.000001"
+       id="path55" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.870163"
+       y="60.960983"
+       id="text56"
+       transform="translate(-32.870117,27.039014)"><tspan
+         x="46.870163"
+         y="60.960983"
+         id="tspan135"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan134">Métodos de</tspan><tspan
+           y="60.960983"
+           id="tspan136"> </tspan></tspan><tspan
+         x="46.870163"
+         y="64.521442"
+         id="tspan138"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan137">propagación</tspan></tspan></text>
+    <path
+       id="path57"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 20.000001,120 5,-5.00001 m -5,1e-5 h 15 v 10 h -15 z" />
+    <path
+       id="path58"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 50.000001,120 5,5 m 0,-5 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 5,5 z" />
+    <path
+       id="path59"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 95.000003,120.00001 4.999997,5 m 0,-5 a 5,4.9999995 0 0 1 -4.999997,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 4.999997,5 z" />
+    <path
+       id="path60"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 65.000003,120.00001 5,-5.00001 m -5,1e-5 h 15 v 10 h -15 z" />
+    <path
+       id="path61"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 140.00001,120.00001 4.99999,5 M 145,120 a 5,4.9999995 0 0 1 -4.99999,5 A 5,4.9999995 0 0 1 135,120 5,4.9999995 0 0 1 140.00001,115.00001 5,4.9999995 0 0 1 145,120 Z" />
+    <path
+       id="path62"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,120 5,-5 m -5,1e-5 h 15 V 125 h -15 z" />
+    <path
+       id="path63"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,120 5,-5 m -5,1e-5 h 15 V 125 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 55.000001,120 H 65.000002"
+       id="path64" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 80.000001,120 H 90.000002"
+       id="path65" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 100,120 h 10"
+       id="path66" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 125,120 h 10"
+       id="path67" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 145,120 h 10"
+       id="path68" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 44.999999,94.999997 h -9.999998 c 0,0 -5.000001,0 -5.000001,5 C 30,105 25,105 25,105 H 15 c 0,0 -5,0 -5,5 0,5 0,5 0,5 0,0 0,4.99999 5,4.99999 5,0 5,0 5,0"
+       id="path69" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 35.000001,119.99999 h 9.999998"
+       id="path70" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text70"
+       transform="translate(-19.752929,48.039014)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan140"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan139">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan141"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan143"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan142">marcadores</tspan></tspan></text>
+    <path
+       id="path71"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 10,139.99999 v -8.03597 l 5,3.03597 -5,3 M 15,145 A 5,4.9999995 0 0 1 10,150 5,4.9999995 0 0 1 5.0000002,145 5,4.9999995 0 0 1 10,140 a 5,4.9999995 0 0 1 5,5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 25,124.99999 v 15 c 0,0 0,5 -5,5 -5,0 -5,0 -5,0"
+       id="path72" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.870163"
+       y="60.960983"
+       id="text72"
+       transform="translate(-36.885964,92.472518)"><tspan
+         x="46.870163"
+         y="60.960983"
+         id="tspan145"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan144">Exit Threat:</tspan><tspan
+           y="60.960983"
+           id="tspan146"> </tspan></tspan><tspan
+         x="46.870163"
+         y="64.521442"
+         id="tspan148"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan147">&quot;Do Not Infect&quot;</tspan><tspan
+           y="64.521442"
+           id="tspan149"> </tspan></tspan><tspan
+         x="46.870163"
+         y="68.081901"
+         id="tspan151"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan150">marker found</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text73"
+       transform="translate(3.2401811,45.498987)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan153"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan152">Malware en</tspan><tspan
+           y="60.960983"
+           id="tspan154"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan156"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan155">sistema libre</tspan><tspan
+           y="64.521442"
+           id="tspan157"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan159"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan158">de marcadores</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text74"
+       transform="translate(26.247072,48.039014)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan161"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan160">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan162"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan164"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan163">fecha límite</tspan></tspan></text>
+    <path
+       id="path74"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 55.000002,140 v -8.03597 l 5,3.03597 -5,3 m 5,7.00001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 5,5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 70.000002,125 v 15 c 0,0 0,5 -5,5 -5,0 -5,0 -5,0"
+       id="path75" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.870163"
+       y="60.960983"
+       id="text75"
+       transform="translate(-4.9926071,87.979665)"><tspan
+         x="46.870163"
+         y="60.960983"
+         id="tspan166"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan165">Exit Threat:</tspan><tspan
+           y="60.960983"
+           id="tspan167"> </tspan></tspan><tspan
+         x="46.870163"
+         y="64.521442"
+         id="tspan169"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan168">Fecha</tspan><tspan
+           y="64.521442"
+           id="tspan170"> </tspan></tspan><tspan
+         x="46.870163"
+         y="68.081901"
+         id="tspan172"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan171">posterior al</tspan><tspan
+           y="68.081901"
+           id="tspan173"> </tspan></tspan><tspan
+         x="46.870163"
+         y="71.642357"
+         id="tspan175"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan174">24/6/2012</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text76"
+       transform="translate(48.247072,48.039014)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan177"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan176">Malware en</tspan><tspan
+           y="60.960983"
+           id="tspan178"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan180"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan179">lapso correcto</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text77"
+       transform="translate(70.698839,48.039014)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan182"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan181">Manipulación</tspan><tspan
+           y="60.960983"
+           id="tspan183"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan185"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan184">de ACL</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text78"
+       transform="translate(93.117535,45.18342)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan187"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan186">Malware con</tspan><tspan
+           y="60.960983"
+           id="tspan188"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan190"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan189">privilegio de</tspan><tspan
+           y="64.521442"
+           id="tspan191"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan193"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan192">seguridad</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text79"
+       transform="translate(115.6823,45.204091)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan195"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan194">Comunicación</tspan><tspan
+           y="60.960983"
+           id="tspan196"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan198"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan197">por Mutex</tspan><tspan
+           y="64.521442"
+           id="tspan199"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan201"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan200">global</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect79"
+       width="70"
+       height="45"
+       x="5"
+       y="4.9999995" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 185,74.999997 v 17.999998 c 0,0 0,2.000002 -2,2.000002 -2,0 -13,0 -13,0"
+       id="path79" />
+    <path
+       id="path80"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 185.00001,120 190,125 m 0,-5 a 5,4.9999995 0 0 1 -4.99999,5 A 5,4.9999995 0 0 1 180,120 5,4.9999995 0 0 1 185.00001,115 5,4.9999995 0 0 1 190,120 Z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 170,120 h 10"
+       id="path81" />
+    <path
+       id="path82"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,145 5,-5.00001 m -5,1e-5 h 15 v 10 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 185,125 v 17.99999 c 0,0 0,2.00001 -2,2.00001 -2,0 -13,0 -13,0"
+       id="path83" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text83"
+       transform="translate(137.50998,45.498992)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan203"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan202">Malware</tspan><tspan
+           y="60.960983"
+           id="tspan204"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan206"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan205">comunicado</tspan><tspan
+           y="64.521442"
+           id="tspan207"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan209"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan208">con su entorno</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:24.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text84"
+       transform="translate(115.73192,69.463212)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan211"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan210">Creación de</tspan><tspan
+           y="60.960983"
+           id="tspan212"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan214"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan213">Archivos necesarios</tspan><tspan
+           y="64.521442"
+           id="tspan215"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan217"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan216">Encriptados</tspan></tspan></text>
+    <path
+       id="path84"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 95.000016,145 4.999994,5 m 0,-5 a 5,4.9999995 0 0 1 -4.999994,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 4.999994,5 z" />
+    <path
+       id="path85"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 140.00001,145 145,150 m 0,-5 a 5,4.9999995 0 0 1 -4.99999,5 A 5,4.9999995 0 0 1 135,145 5,4.9999995 0 0 1 140.00001,140 5,4.9999995 0 0 1 145,145 Z" />
+    <path
+       id="path86"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,145 5,-5 m -5,0 h 15 v 10 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 100.00001,145 H 110"
+       id="path87" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 125,145 h 10"
+       id="path88" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 145,145 h 10"
+       id="path89" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text89"
+       transform="translate(93.117538,69.750534)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan219"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan218">Malware con</tspan><tspan
+           y="60.960983"
+           id="tspan220"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan222"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan221">archivos</tspan><tspan
+           y="64.521442"
+           id="tspan223"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan225"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan224">añadidos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text90"
+       transform="translate(70.682306,73.015792)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan227"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan226">Chequeo de</tspan><tspan
+           y="60.960983"
+           id="tspan228"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan230"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan229">fecha límite</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 70.000002,79.999998 H 75"
+       id="path92" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text92"
+       transform="translate(48.198852,73.387755)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan232"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan231">Malware en</tspan><tspan
+           y="60.960983"
+           id="tspan233"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan235"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan234">lapso correcto</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 110,143 c 0,0 -4.99999,0 -5,-5 l 0,-3 c 0,0 0,-5 -5,-5 H 84.889762 c -4.88976,0 -4.88976,5 -9.88976,5 h -5"
+       id="path93"
+       sodipodi:nodetypes="cscsccc" />
+    <path
+       id="path94"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,170 5,-5.00001 m -5,1e-5 h 15 v 10 h -15 z" />
+    <path
+       id="path95"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 140,170 4.99999,5 m 0,-5 A 5,4.9999995 0 0 1 140,175 5,4.9999995 0 0 1 134.99999,170 5,4.9999995 0 0 1 140,165 a 5,4.9999995 0 0 1 4.99999,5 z" />
+    <path
+       id="path96"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,170 5,-5.00001 m -5,1e-5 h 15 v 10 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 145,170 h 10"
+       id="path97" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 125,170 h 10"
+       id="path98" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 95.000002,149.99999 1.1e-5,15.21311 c 0,0 -0.356101,4.78689 4.821943,4.78689 5.178044,0 10.178044,0 10.178044,0"
+       id="path99" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';text-align:center;text-anchor:middle;white-space:pre;inline-size:68.3192;fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="39.840382"
+       y="14"
+       id="text99"><tspan
+         x="39.840382"
+         y="14"
+         id="tspan237"><tspan
+           style="stroke-width:0.75"
+           id="tspan236">Modelo Precursor</tspan><tspan
+           y="14"
+           id="tspan238"> </tspan></tspan><tspan
+         x="39.840382"
+         y="24.583338"
+         id="tspan240"><tspan
+           style="stroke-width:0.75"
+           id="tspan239">del virus</tspan><tspan
+           y="24.583338"
+           id="tspan241"> </tspan></tspan><tspan
+         x="39.840382"
+         y="35.166676"
+         id="tspan243"><tspan
+           style="stroke-width:0.75"
+           id="tspan242">informático</tspan><tspan
+           y="35.166676"
+           id="tspan244"> </tspan></tspan><tspan
+         x="39.840382"
+         y="45.750013"
+         id="tspan246"><tspan
+           style="stroke-width:0.75"
+           id="tspan245">Stuxnet</tspan><tspan
+           y="45.750013"
+           id="tspan247"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text100"
+       transform="translate(3.0272736,19.129814)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan249"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan248">Malware</tspan><tspan
+           y="60.960983"
+           id="tspan250"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan252"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan251">correctamente</tspan><tspan
+           y="64.521442"
+           id="tspan253"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan255"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan254">replicado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text101"
+       transform="translate(70.74018,97.94345)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan257"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan256">Comparación</tspan><tspan
+           y="60.960983"
+           id="tspan258"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan260"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan259">entre versiones</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text102"
+       transform="translate(93.024313,97.94345)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan262"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan261">Malware único</tspan><tspan
+           y="60.960983"
+           id="tspan263"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan265"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan264">o Vigente</tspan></tspan></text>
+    <path
+       id="path102"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 75.000002,154.99999 v -8.03597 l 5,3.03597 -5,3 m 5,7.00001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 5,5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 110,173.99999 H 80 c 0,0 -5.000002,0 -5,-5 l 2e-6,-3.99999"
+       id="path103"
+       sodipodi:nodetypes="ccsc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.1436;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.870163"
+       y="60.960983"
+       id="text103"
+       transform="translate(13.129884,104.03901)"><tspan
+         x="46.870163"
+         y="60.960983"
+         id="tspan267"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan266">Exit threat: Hay</tspan><tspan
+           y="60.960983"
+           id="tspan268"> </tspan></tspan><tspan
+         x="46.870163"
+         y="64.521442"
+         id="tspan270"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan269">una versión</tspan><tspan
+           y="64.521442"
+           id="tspan271"> </tspan></tspan><tspan
+         x="46.870163"
+         y="68.081901"
+         id="tspan273"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan272">más actual de</tspan><tspan
+           y="68.081901"
+           id="tspan274"> </tspan></tspan><tspan
+         x="46.870163"
+         y="71.642357"
+         id="tspan276"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan275">sistema</tspan><tspan
+           y="71.642357"
+           id="tspan277"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text104"
+       transform="translate(114.90654,95.101977)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan279"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan278">Creación de</tspan><tspan
+           y="60.960983"
+           id="tspan280"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan282"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan281">archivos para el</tspan><tspan
+           y="64.521442"
+           id="tspan283"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan285"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan284">Rootkit</tspan></tspan></text>
+    <path
+       id="path104"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 185.00001,170 190,175 m 0,-5 a 5,4.9999995 0 0 1 -4.99999,5 A 5,4.9999995 0 0 1 180,170 5,4.9999995 0 0 1 185.00001,165 5,4.9999995 0 0 1 190,170 Z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 170,170 h 10"
+       id="path105" />
+    <path
+       id="path106"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 155,195 5,-5 m -5,0 h 15 v 10 h -15 z" />
+    <path
+       id="path107"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 95.000012,195 100,200 m 0,-5 a 5,4.9999995 0 0 1 -4.999988,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 A 5,4.9999995 0 0 1 100,195 Z" />
+    <path
+       id="path108"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 65.000012,195 5,-5 m -5,0 h 15 v 10 h -15 z" />
+    <path
+       id="path109"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="M 140.00001,195 145,200 m 0,-5 a 5,4.9999995 0 0 1 -4.99999,5 A 5,4.9999995 0 0 1 135,195 5,4.9999995 0 0 1 140.00001,190 5,4.9999995 0 0 1 145,195 Z" />
+    <path
+       id="path110"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 110,195 5,-5 m -5,0 h 15 v 10 h -15 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 80.00001,195 H 90.000011"
+       id="path111" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 100,195 h 10"
+       id="path112" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 125,195 h 10"
+       id="path113" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 145,195 h 10"
+       id="path114" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 185,175 v 18 c 0,0 0,2 -2,2 -2,0 -13,0 -13,0"
+       id="path115" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text115"
+       transform="translate(138.24707,98.039012)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan287"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan286">Malware listo</tspan><tspan
+           y="60.960983"
+           id="tspan288"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan290"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan289">para su Deploy</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:25.4667;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text116"
+       transform="translate(115.68506,120.12476)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan292"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan291">Creación de claves</tspan><tspan
+           y="60.960983"
+           id="tspan293"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan295"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan294">del registro y</tspan><tspan
+           y="64.521442"
+           id="tspan296"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan298"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan297">servicio</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text117"
+       transform="translate(93.292342,123.05408)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan300"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan299">Malware por</tspan><tspan
+           y="60.960983"
+           id="tspan301"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan303"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan302">comunicar éxito</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text118"
+       transform="translate(70.682302,120.12476)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan305"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan304">Confirmación</tspan><tspan
+           y="60.960983"
+           id="tspan306"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan308"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan307">por Mutex</tspan><tspan
+           y="64.521442"
+           id="tspan309"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan311"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan310">Global</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:20.0301;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text119"
+       transform="translate(48.341671,123.05408)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan313"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan312">Malware Listo y</tspan><tspan
+           y="60.960983"
+           id="tspan314"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan316"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan315">confirmado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text120"
+       transform="translate(25.617546,123.07475)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan318"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan317">Inyección de</tspan><tspan
+           y="60.960983"
+           id="tspan319"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan321"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan320">servicio</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 55.000001,194.99999 H 65.000002"
+       id="path120" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect120"
+       width="15"
+       height="9.999999"
+       x="40"
+       y="190" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text121"
+       transform="translate(0.61753451,123.07475)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan323"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan322">Propagación a</tspan><tspan
+           y="60.960983"
+           id="tspan324"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan326"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan325">otros nodos</tspan></tspan></text>
+    <path
+       id="path121"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+       d="m 25.000013,194.99999 4.999988,5 m 0,-5 a 5,4.9999995 0 0 1 -4.999988,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 4.999988,5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="M 30,194.99999 H 40.000001"
+       id="path122" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text122"
+       transform="translate(-21.852142,120.10409)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan328"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan327">Malware</tspan><tspan
+           y="60.960983"
+           id="tspan329"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan331"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan330">introducido al</tspan><tspan
+           y="64.521442"
+           id="tspan332"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan334"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan333">sistema</tspan></tspan></text>
+    <path
+       id="path123"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 40.000001,219.99999 5,-5 m -5,0 h 15 v 10 h -15 z" />
+    <path
+       id="path124"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 70.000002,214.99998 v -8.03597 l 5,3.03597 -5,3 m 5,7.00001 a 5,4.9999995 0 0 1 -5,5 5,4.9999995 0 0 1 -5,-5 5,4.9999995 0 0 1 5,-5 5,4.9999995 0 0 1 5,5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 55.000001,219.99999 H 65.000002"
+       id="path125" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 25,199.99999 v 15 c 0,0 0,5 5,5 5.000001,0 10.000002,0 10.000002,0"
+       id="path126" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text126"
+       transform="translate(0.61753523,147.87306)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan336"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan335">Infección a</tspan><tspan
+           y="60.960983"
+           id="tspan337"> </tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan339"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan338">proyectos Step7</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;text-align:center;text-anchor:middle;white-space:pre;inline-size:19.9998;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="46.753029"
+       y="60.960983"
+       id="text127"
+       transform="translate(38.856906,148.65072)"><tspan
+         x="46.753029"
+         y="60.960983"
+         id="tspan341"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan340">Exit Threat:&#10;</tspan></tspan><tspan
+         x="46.753029"
+         y="64.521442"
+         id="tspan343"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan342">Delegar</tspan><tspan
+           y="64.521442"
+           id="tspan344"> </tspan></tspan><tspan
+         x="46.753029"
+         y="68.081901"
+         id="tspan346"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan345">acciones a la</tspan><tspan
+           y="68.081901"
+           id="tspan347"> </tspan></tspan><tspan
+         x="46.753029"
+         y="71.642357"
+         id="tspan349"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan348">etapa</tspan><tspan
+           y="71.642357"
+           id="tspan350"> </tspan></tspan><tspan
+         x="46.753029"
+         y="75.202812"
+         id="tspan352"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan351">Command &amp;</tspan><tspan
+           y="75.202812"
+           id="tspan353"> </tspan></tspan><tspan
+         x="46.753029"
+         y="78.763267"
+         id="tspan355"><tspan
+           style="font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji'"
+           id="tspan354">Control</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 35,69.999998 H 45.000001"
+       id="path128" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 19.731578,72.513597 c -1.125921,0.48569 -2.016859,1.11237 -2.840578,1.779381"
+       id="path129"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 32.700951,84.303187 c 1.125921,-0.48569 2.31282,-0.439736 3.136539,-1.106747"
+       id="path130"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 64.890067,93.18741 c 0,0 -4.890066,-0.187415 -4.890066,-5.187412 v -3.000002 c 0,0 0,-4.999998 5,-4.999998 H 70.000002 75 80 c 0,0 3.000002,10e-7 3.000002,-5 l 0,-3.022832 v -0.931504"
+       id="path133"
+       sodipodi:nodetypes="cscscccscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 83.000002,68.999998 0,-7.5"
+       id="path134"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.808614;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 125.07194,68.006623 c 0,0 2.95827,1.178809 2.95827,-4.715232 V 38.536423 c 0.0715,-0.114027 -0.59433,-3.536424 2.95826,-3.536424 h 3.94436"
+       id="path135"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.808614;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="m 80.000002,67.999998 c 0,0 2.95827,1.178809 2.95827,-4.715232 V 38.529798 c 0.0715,-0.114027 -0.59433,-3.536424 2.95826,-3.536424 h 3.94436"
+       id="path136"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+</svg>
